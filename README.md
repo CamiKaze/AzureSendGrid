@@ -42,9 +42,11 @@ To create a Resource Group:
 
 2.	In the Azure portal menu, select “Resource groups”.
 
-![Test Image 4](https://github.com/CamiKaze/AzureSendGrid/blob/master/Resources/AzureHome.jpg)
+![Azure Home 1](https://github.com/CamiKaze/AzureSendGrid/blob/master/Resources/AzureHome.jpg)
 
 3.	Select “Add” to create a Resource Group.
+
+![Azure Resource Group 1](https://github.com/CamiKaze/AzureSendGrid/blob/master/Resources/ResourceGroup.jpg)
 
 4.	Add the relevant information and select “Review + create”.
 
